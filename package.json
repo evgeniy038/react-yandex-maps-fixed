@@ -64,7 +64,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/R3flector/react-yandex-maps.git"
+		"url": "git+https://github.com/evgeniy038/react-yandex-maps-fixed.git"
 	},
 	"bugs": {
 		"url": "https://github.com/R1ZEN/react-yandex-maps/issues"
